@@ -10,14 +10,20 @@
 ## Introduction of Web Application
 
 
-
 ## Objectives of Web Application
 
+1. To empower users to manage their profiles and booking details, and provide reviews through the implementation of CRUD functionalities, ensuring accurate storage and management of user data in the database.
+
+2. To provide hotel administrators with tools for managing room details, monitoring reservations, and handling payment records, ensuring efficient and streamlined data processing.
+
+3. To implement review and rating features that enable customers to provide feedback on their stay and access reliable information for future booking decisions.
 
 ## Features and Functionalities of Web Application
 
      
 ## Entity-Relationship Diagram (ERD)
+The ERD Diagram of Hotel Management System
+![ERD ](https://github.com/user-attachments/assets/7a65d461-06fc-485e-8262-78bee4be16a1)
 
 
 ## Sequence Diagram

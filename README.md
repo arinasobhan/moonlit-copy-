@@ -38,7 +38,7 @@ The features and functionalities of Hotel Management System is equipped with fiv
 
 ## Entity-Relationship Diagram (ERD)
 The ERD Diagram of Hotel Management System
-![ERD ](https://github.com/user-attachments/assets/7a65d461-06fc-485e-8262-78bee4be16a1)
+![ER Diagram](https://github.com/user-attachments/assets/f7cbe9c4-c6e3-4c7b-9328-387962cc7fb7)
 
 
 ## Sequence Diagram

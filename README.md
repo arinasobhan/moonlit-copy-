@@ -32,36 +32,36 @@ The Sequence Diagram of Hotel Management System
 
 ## Prototype
 
-1. Homepage
+1. Home page
 ![1](https://github.com/user-attachments/assets/97211a51-b6a0-4f0c-b561-40e466437bbe)
 
-2. Sign up
+2. Sign up Page 
 ![2](https://github.com/user-attachments/assets/712407bc-8bd8-4952-9fdb-ea067ddcbe0a)
 
-3. Log in (Guest)
+3. Log in (Guest) Page
 ![3](https://github.com/user-attachments/assets/5f531e7e-e9bb-4194-b0cc-8079ae294705)
 
-4.  User Profile 
+4.  User Profile Page
 ![5](https://github.com/user-attachments/assets/6c8a4ced-d1f9-4766-b032-3ffe342b8ac4)
 
-5. Room 
+5. Room Page
 ![7](https://github.com/user-attachments/assets/e1ec8c16-aceb-4959-aae7-a7b96ff81770)
 
-6. Booking Payment
+6. Booking Payment Page
  ![10](https://github.com/user-attachments/assets/605711ca-d62b-40b7-901e-c93c4f08af07)
 
-7. Reviews 
+7. Reviews Page
 ![9](https://github.com/user-attachments/assets/cebaf395-c47d-440d-9768-b7bde65432cf)
 
-8. Log in (Admin)
+8. Log in (Admin) Page
 ![4](https://github.com/user-attachments/assets/f723d1bf-1955-4088-95a5-a73a72e271d3)
 
-9. Control Panel
+9. Control Panel Page
 
 ![8](https://github.com/user-attachments/assets/29f989de-9250-4250-b037-f7882b77e89e)
 
    
 ## References
-1. YouTube, youtu.be/gzKe7yt8qEo?si=YOD5vk481xhBBdgz. Accessed 4 Jan. 2025.
-2. The Regency Hotel, theregencyhotel.my/kualalumpur/. Accessed 4 Jan. 2025.
-3. “Bukit Bintang Accommodation: JW Marriott Hotel Kuala Lumpur.” Marriott Bonvoy, www.marriott.com/en-us/hotels/kuldt-jw-marriott-hotel-kuala-lumpur/rooms/. Accessed 4 Jan. 2025. 
+1. Bukit Bintang Accommodation | JW Marriott Hotel Kuala Lumpur. (n.d.). Marriott Bonvoy. https://www.marriott.com/en-us/hotels/kuldt-jw-marriott-hotel-kuala-lumpur/rooms/
+2. The Regency Hotel – Kuala Lumpur. (n.d.). https://theregencyhotel.my/kualalumpur/
+3. Wondershare Edraw. (2021, December 9). UML Sequence Diagram Tutorial | Easy to Understand with Examples [Video]. YouTube. https://www.youtube.com/watch?v=gzKe7yt8qEo

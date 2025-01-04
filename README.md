@@ -22,14 +22,13 @@ The objectives of this Hotel Management System are:
 ## Features and Functionalities of Web Application
 The features and functionalities of Hotel Management System is equipped with four main features: User Profiles, Bookings, Reviews & Ratings, and Payments. These features work together to provide a seamless and efficient experience for both customers and administrators. The system allows for smooth management of user accounts, easy booking processes, valuable guest feedback through reviews, and secure payment transactions, ensuring a streamlined and user-friendly approach to hotel management. By integrating these functionalities, Moonlit Lagoon Hotel enhances both customer satisfaction and operational efficiency, creating a comprehensive solution for modern hotel management.
 
+1. User Profiles are designed to manage user accounts effectively. The creation process involves registering users with essential details such as name, email, password, and contact information. Users can then read and access their profiles, including viewing their booking history and payment methods. The update feature allows users to edit their profile information, such as personal details, contact information, and payment methods, ensuring their profiles are always up to date. In case of account deactivation, users can delete or deactivate their accounts, with admins overseeing the process.
 
-User Profiles are designed to manage user accounts effectively. The creation process involves registering users with essential details such as name, email, password, and contact information. Users can then read and access their profiles, including viewing their booking history and payment methods. The update feature allows users to edit their profile information, such as personal details, contact information, and payment methods, ensuring their profiles are always up to date. In case of account deactivation, users can delete or deactivate their accounts, with admins overseeing the process.
+2. The Bookings system is used to handle customer reservations. Customers can create bookings by selecting their preferred dates, room type, and the number of guests. Once a booking is made, customers can read and review the booking details, including booking status and dates. Admins have the ability to see and manage all bookings. Customers can update their reservations by changing the dates or the number of guests, while admins can update the booking status as necessary. The delete feature allows customers to cancel their bookings, and admins can remove bookings in case of no-shows or cancellations.
 
-The Bookings system is used to handle customer reservations. Customers can create bookings by selecting their preferred dates, room type, and the number of guests. Once a booking is made, customers can read and review the booking details, including booking status and dates. Admins have the ability to see and manage all bookings. Customers can update their reservations by changing the dates or the number of guests, while admins can update the booking status as necessary. The delete feature allows customers to cancel their bookings, and admins can remove bookings in case of no-shows or cancellations.
+3. Reviews & Ratings are essential for gathering customer feedback on services. After their stay, customers can create reviews and ratings for the rooms, sharing their experiences with future guests. These reviews are displayed for all to see on the booking pages, helping others make informed decisions. Customers also have the option to update their reviews within a specified timeframe, providing them with the flexibility to revise their feedback if needed. Admins monitor and delete inappropriate or spammy reviews to ensure that only valid, helpful feedback is visible.
 
-Reviews & Ratings are essential for gathering customer feedback on services. After their stay, customers can create reviews and ratings for the rooms, sharing their experiences with future guests. These reviews are displayed for all to see on the booking pages, helping others make informed decisions. Customers also have the option to update their reviews within a specified timeframe, providing them with the flexibility to revise their feedback if needed. Admins monitor and delete inappropriate or spammy reviews to ensure that only valid, helpful feedback is visible.
-
-Payments system manages all aspects of booking payments. Upon booking confirmation, customers will enter their bank details, including the name on the bank card, the card number, expiration date, and CVV, to process the payment. Once payment is made, customers receive receipts for their transactions, and admins can track payments and their statuses to ensure all financial records are up to date. Customers can view their payment receipts, while admins can update payment statuses, such as marking payments as successful or refunded. In case of cancellations before payment confirmation, customers can cancel their payments, and admins can delete any invalid transactions that may arise.
+4. Payments system manages all aspects of booking payments. Upon booking confirmation, customers will enter their bank details, including the name on the bank card, the card number, expiration date, and CVV, to process the payment. Once payment is made, customers receive receipts for their transactions, and admins can track payments and their statuses to ensure all financial records are up to date. Customers can view their payment receipts, while admins can update payment statuses, such as marking payments as successful or refunded. In case of cancellations before payment confirmation, customers can cancel their payments, and admins can delete any invalid transactions that may arise.
 
 ## Entity-Relationship Diagram (ERD)
 The ERD Diagram of Hotel Management System
@@ -54,20 +53,24 @@ The Sequence Diagram of Hotel Management System
 
 4. User Profile Page
 ![5](https://github.com/user-attachments/assets/6c8a4ced-d1f9-4766-b032-3ffe342b8ac4)
+![6](https://github.com/user-attachments/assets/356d843d-ba73-4afa-8e1b-0de5a74b57eb)
 
-5. Booking Page
+
+6. Booking Page
 ![7](https://github.com/user-attachments/assets/e1ec8c16-aceb-4959-aae7-a7b96ff81770)
 
-6. Payment Page
+7. Payment Page
  ![10](https://github.com/user-attachments/assets/605711ca-d62b-40b7-901e-c93c4f08af07)
+![11](https://github.com/user-attachments/assets/d9388726-6291-4ab2-aeb6-50531f9a00a2)
 
-7. Reviews and Ratings Page
+
+8. Reviews and Ratings Page
 ![9](https://github.com/user-attachments/assets/cebaf395-c47d-440d-9768-b7bde65432cf)
 
-8. Log in (Admin) Page
+9. Log in (Admin) Page
 ![4](https://github.com/user-attachments/assets/f723d1bf-1955-4088-95a5-a73a72e271d3)
 
-9. Admin Control Panel Page
+10. Admin Control Panel Page
 ![8](https://github.com/user-attachments/assets/29f989de-9250-4250-b037-f7882b77e89e)
 
    

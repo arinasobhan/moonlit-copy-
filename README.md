@@ -7,23 +7,25 @@
 
 #  Moonlit Lagoon Hotel (Hotel Management System )
 
-## Introduction
+## Introduction of Web Application
 
 
 
-## Objectives
+## Objectives of Web Application
 
 
-## Features and Functionalities
+## Features and Functionalities of Web Application
 
      
 ## Entity-Relationship Diagram (ERD)
 
 
 ## Sequence Diagram
+The Sequence Diagram of Hotel Management System
+![sequence diagram](https://github.com/user-attachments/assets/7e8b4feb-bc82-461a-b237-8f773acf7370)
 
 
-## Mockup
+## Prototype
 
 1. Homepage
 ![1](https://github.com/user-attachments/assets/97211a51-b6a0-4f0c-b561-40e466437bbe)

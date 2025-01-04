@@ -17,11 +17,11 @@
 ## Objectives of Web Application
 The objectives of this Hotel Management System are: 
 
-1. To empower users to create and manage their profiles, complete bookings effortlessly, and leave reviews, ensuring all data is securely stored and easily accessible.
+1. To enable users to manage their profiles and booking details, and provide reviews through the implementation of CRUD functionalities, ensuring all user data is properly stored in the database.
 
-2. To equip hotel administrators with a comprehensive system for efficiently managing room availability, processing reservations, and handling payment transactions to optimize operational workflows.
+2. To provide hotel administrators with tools for managing room details, monitoring reservations and handling payment records to ensure efficient data processing.
 
-3. To facilitate customer feedback through reviews and ratings, enabling guests to share their experiences and assisting future visitors in making informed booking decisions
+3. To implement review and rating features that allow customers to provide feedback on their stay and access reliable information for future booking decisions.
 
 ## Features and Functionalities of Web Application
 The features and functionalities of Hotel Management System is equipped with five main features: User Profiles, Bookings, Reviews & Ratings, Payments and Admin Control Panel. The system allows for smooth management of user accounts, easy booking processes, valuable guest feedback through reviews, and secure payment transactions. By integrating these functionalities, Moonlit Lagoon Hotel enhances both customer satisfaction and operational efficiency, creating a comprehensive solution for modern hotel management system.

@@ -57,3 +57,6 @@ The Sequence Diagram of Hotel Management System
 
    
 ## References
+1. YouTube, youtu.be/gzKe7yt8qEo?si=YOD5vk481xhBBdgz. Accessed 4 Jan. 2025.
+2. The Regency Hotel, theregencyhotel.my/kualalumpur/. Accessed 4 Jan. 2025.
+3. “Bukit Bintang Accommodation: JW Marriott Hotel Kuala Lumpur.” Marriott Bonvoy, www.marriott.com/en-us/hotels/kuldt-jw-marriott-hotel-kuala-lumpur/rooms/. Accessed 4 Jan. 2025. 

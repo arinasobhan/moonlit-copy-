@@ -8,7 +8,7 @@
 #  Moonlit Lagoon Hotel (Hotel Management System )
 
 ## Introduction of Web Application
-
+The Hotel Booking System is a web application designed to streamline hotel management and reservation processes, built using the Laravel framework and its Model-View-Controller (MVC) architecture. The system integrates CRUD (Create, Read, Update, Delete) operations to manage essential functionalities such as user profiles, hotel rooms, bookings, reviews, and payments. Laravel’s powerful routing system connects the models, views, and controllers, ensuring smooth data flow and business logic execution. This structured approach enables efficient management of hotel operations while enhancing user interaction with secure and scalable backend processes.
 
 ## Objectives of Web Application
 
@@ -20,7 +20,6 @@
 
 ## Features and Functionalities of Web Application
 
-     
 ## Entity-Relationship Diagram (ERD)
 The ERD Diagram of Hotel Management System
 ![ERD ](https://github.com/user-attachments/assets/7a65d461-06fc-485e-8262-78bee4be16a1)

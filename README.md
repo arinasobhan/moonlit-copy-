@@ -11,7 +11,7 @@
 The Hotel Booking System is a web application designed to streamline hotel management and reservation processes, built using the Laravel framework and its Model-View-Controller (MVC) architecture. The system integrates CRUD (Create, Read, Update, Delete) operations to manage essential functionalities such as user profiles, hotel rooms, bookings, reviews, and payments. Laravel’s powerful routing system connects the models, views, and controllers, ensuring smooth data flow and business logic execution. This structured approach enables efficient management of hotel operations while enhancing user interaction with secure and scalable backend processes.
 
 ## Objectives of Web Application
-The objectives of this Web Application are: 
+The objectives of this Hotel Management System are: 
 
 1. To empower users to manage their profiles and booking details, and provide reviews through the implementation of CRUD functionalities, ensuring accurate storage and management of user data in the database.
 
@@ -20,6 +20,12 @@ The objectives of this Web Application are:
 3. To implement review and rating features that enable customers to provide feedback on their stay and access reliable information for future booking decisions.
 
 ## Features and Functionalities of Web Application
+
+1. User Profile
+2. Booking
+3. Payment
+4. Review
+5. Room
 
 ## Entity-Relationship Diagram (ERD)
 The ERD Diagram of Hotel Management System
@@ -58,7 +64,6 @@ The Sequence Diagram of Hotel Management System
 ![4](https://github.com/user-attachments/assets/f723d1bf-1955-4088-95a5-a73a72e271d3)
 
 9. Control Panel Page
-
 ![8](https://github.com/user-attachments/assets/29f989de-9250-4250-b037-f7882b77e89e)
 
    

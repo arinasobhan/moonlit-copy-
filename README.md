@@ -1,66 +1,70 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+- Update: Allow users to modify the pax for the tour packages.
+   - Deleet: Allow users to cancel their booking.
+7. Attraction Booking:
+   - Create: Enable users to book attractions by selecting desired locations,date and category       attractions.
+   - Read:Display a comprehensive list of available attractions with descriptions, ratings,         operational hours, and ticket pricing.
+   - Update:Allow users to modify their bookings, such as adjusting the date and or number of       participants.
+   - Delete: Permit users to cancel attraction bookings only before payment is completed.
+8. Payment Integration:
+   - Create: Allow users to make a payment for their options.
+   - Read: Display all the details like total price that need to pay, the information of their information, and etc.
+   - Update: Allows users to modify their payment details like adjusting the number of bank card.
+   - Delete: Allow users to cancel the payment.
+     
+## Entity-Relationship Diagram (ERD)
+![ERD WAD Project drawio](https://github.com/user-attachments/assets/729fa1f1-9dc7-4d6c-9b37-9d6f1bd590ce)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Sequence Diagram
+![WebApp drawio (1)](https://github.com/user-attachments/assets/28e56b3e-9c9d-43a1-aab3-de2878caace1)
 
-## About Laravel
+## Mockup
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+1. Home Page 
+   ![HOME (1)](https://github.com/user-attachments/assets/3388dada-9428-469f-a769-a289d70901d0)
+   ![image](https://github.com/user-attachments/assets/64f6f092-b018-49fe-ad76-5fa39ce46000)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+3. Log in Page:
+   ![image](https://github.com/user-attachments/assets/f3f544d8-965a-4d51-b55c-bbddcd2afa25)
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+4. Sign Up Page:
+   ![image](https://github.com/user-attachments/assets/eea2051c-007e-4fe3-91e1-2aa705eeb32f)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+5. Profile Page:
+   ![User Profile (1)](https://github.com/user-attachments/assets/290b79ea-b154-4bec-ad18-0005ae96065c)
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+6. Flight Booking Page:
+   ![image](https://github.com/user-attachments/assets/8c4d0744-a31e-4279-aea3-7f1c1188550c)
+   ![image](https://github.com/user-attachments/assets/de78a347-34c7-4a8f-bb20-80d8b491c6a9)
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+7. Hotel Booking Page:
+   ![Hotel booking page 1](https://github.com/user-attachments/assets/313df16f-4b86-428d-ab92-db0d0ae1083e)
+   ![Hotel (1)](https://github.com/user-attachments/assets/277d2411-c6a2-4ad4-9bac-a25d667eefc2)
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+8. Vehicle Booking Page:
+   ![Rental (1)](https://github.com/user-attachments/assets/2540753a-a620-4a26-97de-b715614ce1c1)
 
-## Code of Conduct
+9. Tour Packages Page:
+  ![Tour Package 1](https://github.com/user-attachments/assets/ca35407f-8df8-47ba-ada7-35c346c55541)
+![Tour Package 2](https://github.com/user-attachments/assets/8ec8c8a7-db27-4303-817f-27cbda55c944)
+   
+10.  Attraction Booking Page:
+![12](https://github.com/user-attachments/assets/4763f105-99da-431d-a50d-37e04272f21e)
+![13](https://github.com/user-attachments/assets/0fe02263-08dc-4ba8-b347-00ded85ecfd5)
+![14](https://github.com/user-attachments/assets/9e8e6069-790b-4c05-bba0-d0078553d0a4)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+11. Payment Page:
+  ![Checkout(cart)](https://github.com/user-attachments/assets/4d1ed0f0-011d-421a-b3de-b718d6079726)
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+   
+## References
+1. Athuraliya, A., & Creately. (2022, December 12). *Sequence Diagram Tutorial – Complete Guide with Examples.* Creately. https://creately.com/guides/sequence-diagram-tutorial/
+2. *Car rental in Malaysia | Book a car Online - WAHDAH.* (n.d.). https://www.wahdah.my/
+3. Booking.com. (n.d.). https://www.booking.com/

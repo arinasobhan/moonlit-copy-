@@ -42,9 +42,15 @@
             <span>Value For Money</span>
             <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
         </div>
-        <textarea placeholder="Your review..."></textarea>
-        <button class="btn-post">Post Review</button>
-        <button class="btn-update">Update Review</button>
+        <form action="{{ route('reviews.store') }}" method="POST">
+            @csrf
+            <div class="review-form">
+                <h3>Review</h3>
+                <input type="number" name="rating" placeholder="Rating" step="0.1" min="0" max="5" required>
+                <textarea name="review_text" placeholder="Your review..." required></textarea>
+                <button type="submit" class="btn-post">Post Review</button>
+            </div>
+        </form>
     </div>
 
     <div class="guest-reviews">
